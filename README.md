@@ -114,5 +114,3 @@ Feel free to connect with us on [LinkedIn](Your_LinkedIn_Profile) or [Twitter](Y
 Master Git with GitGuruGuides! 🚀📘
 
 ---
-
-**Note**: Ensure to replace placeholder texts like `[URL]`, `Your_LinkedIn_Profile`, `Your_Twitter_Profile`, and `Your_Support_Link` with actual content relevant to your repository.
